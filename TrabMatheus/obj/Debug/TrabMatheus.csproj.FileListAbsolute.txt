@@ -1,2 +1,9 @@
 c:\users\augusto.caldeira\documents\visual studio 2015\Projects\TrabMatheus\TrabMatheus\bin\Debug\TrabMatheus.exe.config
 C:\Users\augusto.caldeira\Desktop\GitHub\FULLTRAB3BIMATHEUS\TrabMatheus\bin\Debug\TrabMatheus.exe.config
+C:\Users\augusto.caldeira\Desktop\GitHub\FULLTRAB3BIMATHEUS\TrabMatheus\bin\Debug\TrabMatheus.exe
+C:\Users\augusto.caldeira\Desktop\GitHub\FULLTRAB3BIMATHEUS\TrabMatheus\bin\Debug\TrabMatheus.pdb
+C:\Users\augusto.caldeira\Desktop\GitHub\FULLTRAB3BIMATHEUS\TrabMatheus\obj\Debug\TrabMatheus.csprojResolveAssemblyReference.cache
+C:\Users\augusto.caldeira\Desktop\GitHub\FULLTRAB3BIMATHEUS\TrabMatheus\obj\Debug\TrabMatheus.Properties.Resources.resources
+C:\Users\augusto.caldeira\Desktop\GitHub\FULLTRAB3BIMATHEUS\TrabMatheus\obj\Debug\TrabMatheus.csproj.GenerateResource.Cache
+C:\Users\augusto.caldeira\Desktop\GitHub\FULLTRAB3BIMATHEUS\TrabMatheus\obj\Debug\TrabMatheus.exe
+C:\Users\augusto.caldeira\Desktop\GitHub\FULLTRAB3BIMATHEUS\TrabMatheus\obj\Debug\TrabMatheus.pdb
