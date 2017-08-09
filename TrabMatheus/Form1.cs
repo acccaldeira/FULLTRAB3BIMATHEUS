@@ -39,7 +39,45 @@ namespace TrabMatheus
 
         private void numericUpDown1_ValueChanged(object sender, EventArgs e)
         {
+            
+        }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            textBox1.Text = "FIGHT!!";
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            textBox1.AppendText("\n");
+            textBox1.AppendText("10 DMGs");
+                    
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox1.AppendText("\n");
+            textBox1.AppendText("Blocked");
+        }
+
+        private void trackBar1_Scroll(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void trackBar1_Scroll_1(object sender, EventArgs e)
+        {
+            label1.Text = trackBar1.Value.ToString();
         }
     }
 }
